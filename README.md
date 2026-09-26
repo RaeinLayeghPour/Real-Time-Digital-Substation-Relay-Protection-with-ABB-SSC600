@@ -67,9 +67,9 @@ The repository contains configuration files, logic diagrams, simulation models, 
   - Typhoon HIL604 Real-Time Simulator
 
 - **Software**
-  - PCM600 – Protection & Control IED Manager
+  - PCM600 - Protection & Control IED Manager
   - IEC 61850 System Configuration Tool
-  - WHMI – SSC600 Web HMI
+  - WHMI - SSC600 Web HMI
   - SCADA Panel in Typhoon HIL
 
 - **Standards**
